@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Florea_Cristina_Lab2.props" />
+</Project>
