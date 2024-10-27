@@ -256,3 +256,4 @@ C:\Users\Cristina\Desktop\Medii de programare\Florea_Cristina_Lab2\obj\Debug\net
 C:\Users\Cristina\Desktop\Medii de programare\Florea_Cristina_Lab2\obj\Debug\net8.0\Florea_Cristina_Lab2.pdb
 C:\Users\Cristina\Desktop\Medii de programare\Florea_Cristina_Lab2\obj\Debug\net8.0\Florea_Cristina_Lab2.genruntimeconfig.cache
 C:\Users\Cristina\Desktop\Medii de programare\Florea_Cristina_Lab2\obj\Debug\net8.0\ref\Florea_Cristina_Lab2.dll
+C:\Users\Cristina\Desktop\Medii de programare\Florea_Cristina_Lab2\obj\Debug\net8.0\Florea_Cristina_Lab2.sourcelink.json

@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Migrations"
+    "\\Data",
+    "\\Migrations",
+    "\\Pages",
+    "\\Pages\\Shared"
   ],
-  "SelectedNode": "\\Migrations\\20241018100752_PublishingDate.cs",
+  "SelectedNode": "\\Florea_Cristina_Lab2.sln",
   "PreviewInSolutionExplorer": false
 }
