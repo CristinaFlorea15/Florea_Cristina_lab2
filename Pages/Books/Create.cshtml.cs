@@ -10,7 +10,7 @@ using Florea_Cristina_Lab2.Models;
 
 namespace Florea_Cristina_Lab2.Pages.Books
 {
-    public class CreateModel : PageModel
+    public class CreateModel : BookCategoriesPageModel
     {
         private readonly Florea_Cristina_Lab2.Data.Florea_Cristina_Lab2Context _context;
 
@@ -22,23 +22,43 @@ namespace Florea_Cristina_Lab2.Pages.Books
         public IActionResult OnGet()
         {
             ViewData["PublisherID"] = new SelectList(_context.Set<Publisher>(), "ID", "PublisherName");
-            return Page();
+           
             ViewData["AuthorID"] = new SelectList(_context.Set<Author>(), "ID", "LastName");
+
+            // Initialize Book property for the form
+            Book = new Book
+            {
+                BookCategories = new List<BookCategory>()
+            };
+            PopulateAssignedCategoryData(_context, Book);
             return Page();
         }
 
         [BindProperty]
-        public Book Book { get; set; } = default!;
+        public Book Book { get; set; } = new Book();
 
-        // For more information, see https://aka.ms/RazorPagesCRUD.
+        // Property to hold selected categories from the checkboxes
+        [BindProperty]
+        public string[] selectedCategories { get; set; } = Array.Empty<string>();
+
         public async Task<IActionResult> OnPostAsync()
+
+
         {
             if (!ModelState.IsValid)
             {
-                ViewData["PublihserID"] = new SelectList(_context.Set<Publisher>(), "ID", "PublisherName");
-                ViewData["AuthorID"] = new SelectList(_context.Set<Publisher>(), "ID", "LastName");
-
+                ViewData["PublisherID"] = new SelectList(_context.Set<Publisher>(), "ID", "PublisherName", Book.PublisherID);
+                ViewData["AuthorID"] = new SelectList(_context.Set<Author>(), "ID", "LastName", Book.AuthorID);
+                PopulateAssignedCategoryData(_context, Book);
                 return Page();
+            }
+
+            if (selectedCategories != null)
+            {
+                Book.BookCategories = selectedCategories.Select(cat => new BookCategory
+                {
+                    CategoryID = int.Parse(cat)
+                }).ToList();
             }
 
             _context.Book.Add(Book);
