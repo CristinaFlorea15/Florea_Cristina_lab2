@@ -12,14 +12,17 @@ namespace Florea_Cristina_Lab2.Pages.Books
 {
     public class DetailsModel : PageModel
     {
-        private readonly Florea_Cristina_Lab2.Data.Florea_Cristina_Lab2Context _context;
+        private readonly Florea_Cristina_Lab2Context _context;
 
-        public DetailsModel(Florea_Cristina_Lab2.Data.Florea_Cristina_Lab2Context context)
+        public DetailsModel(Florea_Cristina_Lab2Context context)
         {
             _context = context;
         }
 
         public Book Book { get; set; } = default!;
+
+        // Property to hold the list of category names
+        public List<string> BookCategories { get; set; } = new List<string>();
 
         public async Task<IActionResult> OnGetAsync(int? id)
         {
@@ -28,15 +31,22 @@ namespace Florea_Cristina_Lab2.Pages.Books
                 return NotFound();
             }
 
-            var book = await _context.Book.FirstOrDefaultAsync(m => m.ID == id);
-            if (book == null)
+            // Load the Book entity along with its associated categories
+            Book = await _context.Book
+                .Include(b => b.BookCategories)
+                    .ThenInclude(bc => bc.Category)
+                .FirstOrDefaultAsync(m => m.ID == id);
+
+            if (Book == null)
             {
                 return NotFound();
             }
-            else
-            {
-                Book = book;
-            }
+
+            // Populate the BookCategories list with the names of assigned categories
+            BookCategories = Book.BookCategories
+                .Select(bc => bc.Category.CategoryName)
+                .ToList();
+
             return Page();
         }
     }
