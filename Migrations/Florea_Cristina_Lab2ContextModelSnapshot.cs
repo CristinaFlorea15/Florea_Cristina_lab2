@@ -136,7 +136,7 @@ namespace Florea_Cristina_Lab2.Migrations
             modelBuilder.Entity("Florea_Cristina_Lab2.Models.Book", b =>
                 {
                     b.HasOne("Florea_Cristina_Lab2.Models.Author", "Author")
-                        .WithMany()
+                        .WithMany("Books")
                         .HasForeignKey("AuthorID");
 
                     b.HasOne("Florea_Cristina_Lab2.Models.Publisher", "Publisher")
@@ -165,6 +165,11 @@ namespace Florea_Cristina_Lab2.Migrations
                     b.Navigation("Book");
 
                     b.Navigation("Category");
+                });
+
+            modelBuilder.Entity("Florea_Cristina_Lab2.Models.Author", b =>
+                {
+                    b.Navigation("Books");
                 });
 
             modelBuilder.Entity("Florea_Cristina_Lab2.Models.Book", b =>
