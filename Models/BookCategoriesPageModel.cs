@@ -11,7 +11,7 @@ namespace Florea_Cristina_Lab2.Models
 
         public void PopulateAssignedCategoryData(Florea_Cristina_Lab2Context context, Book book)
         {
-            var allCategories = context.Category.ToList(); // Materialize the query
+            var allCategories = context.Category.ToList();
             var bookCategories = new HashSet<int>(book.BookCategories.Select(c => c.CategoryID));
             AssignedCategoryDataList = new List<AssignedCategoryData>();
 
@@ -32,14 +32,14 @@ namespace Florea_Cristina_Lab2.Models
 
             if (selectedCategories == null)
             {
-                bookToUpdate.BookCategories.Clear(); // Clear existing categories
+                bookToUpdate.BookCategories.Clear();
                 return;
             }
 
             var selectedCategoriesHS = new HashSet<string>(selectedCategories);
             var bookCategories = new HashSet<int>(bookToUpdate.BookCategories.Select(c => c.Category.ID));
 
-            foreach (var category in context.Category.ToList()) // Materialize once
+            foreach (var category in context.Category.ToList())
             {
                 if (selectedCategoriesHS.Contains(category.ID.ToString()))
                 {

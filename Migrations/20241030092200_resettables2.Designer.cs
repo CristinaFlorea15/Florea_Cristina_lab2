@@ -4,6 +4,7 @@ using Florea_Cristina_Lab2.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -11,9 +12,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Florea_Cristina_Lab2.Migrations
 {
     [DbContext(typeof(Florea_Cristina_Lab2Context))]
-    partial class Florea_Cristina_Lab2ContextModelSnapshot : ModelSnapshot
+    [Migration("20241030092200_resettables2")]
+    partial class resettables2
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -54,9 +57,6 @@ namespace Florea_Cristina_Lab2.Migrations
                     b.Property<int?>("AuthorID")
                         .HasColumnType("int");
 
-                    b.Property<int?>("CategoryID")
-                        .HasColumnType("int");
-
                     b.Property<decimal>("Price")
                         .HasColumnType("decimal(6,2)");
 
@@ -73,8 +73,6 @@ namespace Florea_Cristina_Lab2.Migrations
                     b.HasKey("ID");
 
                     b.HasIndex("AuthorID");
-
-                    b.HasIndex("CategoryID");
 
                     b.HasIndex("PublisherID");
 
@@ -144,10 +142,6 @@ namespace Florea_Cristina_Lab2.Migrations
                         .WithMany("Books")
                         .HasForeignKey("AuthorID");
 
-                    b.HasOne("Florea_Cristina_Lab2.Models.Category", null)
-                        .WithMany("Books")
-                        .HasForeignKey("CategoryID");
-
                     b.HasOne("Florea_Cristina_Lab2.Models.Publisher", "Publisher")
                         .WithMany("Books")
                         .HasForeignKey("PublisherID");
@@ -189,8 +183,6 @@ namespace Florea_Cristina_Lab2.Migrations
             modelBuilder.Entity("Florea_Cristina_Lab2.Models.Category", b =>
                 {
                     b.Navigation("BookCategories");
-
-                    b.Navigation("Books");
                 });
 
             modelBuilder.Entity("Florea_Cristina_Lab2.Models.Publisher", b =>
