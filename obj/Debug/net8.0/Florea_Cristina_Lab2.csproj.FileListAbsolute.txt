@@ -257,3 +257,11 @@ C:\Users\Cristina\Desktop\Medii de programare\Florea_Cristina_Lab2\obj\Debug\net
 C:\Users\Cristina\Desktop\Medii de programare\Florea_Cristina_Lab2\obj\Debug\net8.0\Florea_Cristina_Lab2.genruntimeconfig.cache
 C:\Users\Cristina\Desktop\Medii de programare\Florea_Cristina_Lab2\obj\Debug\net8.0\ref\Florea_Cristina_Lab2.dll
 C:\Users\Cristina\Desktop\Medii de programare\Florea_Cristina_Lab2\obj\Debug\net8.0\Florea_Cristina_Lab2.sourcelink.json
+C:\Users\Cristina\Desktop\Medii de programare\Florea_Cristina_Lab2\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Cristina\Desktop\Medii de programare\Florea_Cristina_Lab2\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Cristina\Desktop\Medii de programare\Florea_Cristina_Lab2\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Cristina\Desktop\Medii de programare\Florea_Cristina_Lab2\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Cristina\Desktop\Medii de programare\Florea_Cristina_Lab2\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Cristina\Desktop\Medii de programare\Florea_Cristina_Lab2\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Cristina\Desktop\Medii de programare\Florea_Cristina_Lab2\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Cristina\Desktop\Medii de programare\Florea_Cristina_Lab2\obj\Debug\net8.0\Florea_Cristina_Lab2.MvcApplicationPartsAssemblyInfo.cs
