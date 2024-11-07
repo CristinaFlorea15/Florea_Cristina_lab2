@@ -4,6 +4,7 @@ using Florea_Cristina_Lab2.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -11,9 +12,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Florea_Cristina_Lab2.Migrations
 {
     [DbContext(typeof(Florea_Cristina_Lab2Context))]
-    partial class Florea_Cristina_Lab2ContextModelSnapshot : ModelSnapshot
+    [Migration("20241103201100_Borrowings")]
+    partial class Borrowings
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -61,7 +64,7 @@ namespace Florea_Cristina_Lab2.Migrations
                         .HasColumnType("int");
 
                     b.Property<decimal>("Price")
-                        .HasColumnType("decimal(6, 2)");
+                        .HasColumnType("decimal(6,2)");
 
                     b.Property<int?>("PublisherID")
                         .HasColumnType("int");
@@ -126,9 +129,7 @@ namespace Florea_Cristina_Lab2.Migrations
 
                     b.HasKey("ID");
 
-                    b.HasIndex("BookID")
-                        .IsUnique()
-                        .HasFilter("[BookID] IS NOT NULL");
+                    b.HasIndex("BookID");
 
                     b.HasIndex("MemberID");
 
@@ -239,8 +240,8 @@ namespace Florea_Cristina_Lab2.Migrations
             modelBuilder.Entity("Florea_Cristina_Lab2.Models.Borrowing", b =>
                 {
                     b.HasOne("Florea_Cristina_Lab2.Models.Book", "Book")
-                        .WithOne("Borrowing")
-                        .HasForeignKey("Florea_Cristina_Lab2.Models.Borrowing", "BookID");
+                        .WithMany("Borrowings")
+                        .HasForeignKey("BookID");
 
                     b.HasOne("Florea_Cristina_Lab2.Models.Member", "Member")
                         .WithMany("Borrowings")
@@ -260,7 +261,7 @@ namespace Florea_Cristina_Lab2.Migrations
                 {
                     b.Navigation("BookCategories");
 
-                    b.Navigation("Borrowing");
+                    b.Navigation("Borrowings");
                 });
 
             modelBuilder.Entity("Florea_Cristina_Lab2.Models.Category", b =>

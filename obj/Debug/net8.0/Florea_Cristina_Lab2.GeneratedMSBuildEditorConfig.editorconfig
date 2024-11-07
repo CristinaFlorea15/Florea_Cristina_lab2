@@ -66,6 +66,26 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Cristina/Desktop/Medii de programare/Florea_Cristina_Lab2/Pages/Borrowings/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9ycm93aW5nc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cristina/Desktop/Medii de programare/Florea_Cristina_Lab2/Pages/Borrowings/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9ycm93aW5nc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cristina/Desktop/Medii de programare/Florea_Cristina_Lab2/Pages/Borrowings/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9ycm93aW5nc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cristina/Desktop/Medii de programare/Florea_Cristina_Lab2/Pages/Borrowings/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9ycm93aW5nc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cristina/Desktop/Medii de programare/Florea_Cristina_Lab2/Pages/Borrowings/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9ycm93aW5nc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Cristina/Desktop/Medii de programare/Florea_Cristina_Lab2/Pages/Categories/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmllc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -88,6 +108,26 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/Cristina/Desktop/Medii de programare/Florea_Cristina_Lab2/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cristina/Desktop/Medii de programare/Florea_Cristina_Lab2/Pages/Members/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVtYmVyc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cristina/Desktop/Medii de programare/Florea_Cristina_Lab2/Pages/Members/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVtYmVyc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cristina/Desktop/Medii de programare/Florea_Cristina_Lab2/Pages/Members/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVtYmVyc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cristina/Desktop/Medii de programare/Florea_Cristina_Lab2/Pages/Members/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVtYmVyc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cristina/Desktop/Medii de programare/Florea_Cristina_Lab2/Pages/Members/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVtYmVyc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Cristina/Desktop/Medii de programare/Florea_Cristina_Lab2/Pages/Privacy.cshtml]

@@ -18,5 +18,17 @@ namespace Florea_Cristina_Lab2.Data
         public DbSet<Florea_Cristina_Lab2.Models.Publisher> Publisher { get; set; } = default!;
         public DbSet<Florea_Cristina_Lab2.Models.Author> Author { get; set; } = default!;
         public DbSet<Florea_Cristina_Lab2.Models.Category> Category { get; set; } = default!;
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<Book>()
+                .HasOne(b => b.Borrowing)
+                .WithOne(bw => bw.Book)
+                .HasForeignKey<Borrowing>(bw => bw.BookID);
+
+            base.OnModelCreating(modelBuilder);
+        }
+        public DbSet<Florea_Cristina_Lab2.Models.Member> Member { get; set; } = default!;
+        public DbSet<Florea_Cristina_Lab2.Models.Borrowing> Borrowing { get; set; } = default!;
     }
 }
