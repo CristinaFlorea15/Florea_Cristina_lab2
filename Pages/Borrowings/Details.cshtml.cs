@@ -28,7 +28,13 @@ namespace Florea_Cristina_Lab2.Pages.Borrowings
                 return NotFound();
             }
 
+            Borrowing = await _context.Borrowing
+               .Include(b => b.Member)
+               .Include(b => b.Book)
+               .ThenInclude(book => book.Author)
+               .FirstOrDefaultAsync(m => m.ID == id);
             var borrowing = await _context.Borrowing.FirstOrDefaultAsync(m => m.ID == id);
+
             if (borrowing == null)
             {
                 return NotFound();
