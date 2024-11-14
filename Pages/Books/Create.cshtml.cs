@@ -7,13 +7,15 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Florea_Cristina_Lab2.Data;
 using Florea_Cristina_Lab2.Models;
+using Microsoft.AspNetCore.Authorization;
 
 namespace Florea_Cristina_Lab2.Pages.Books
 {
+    [Authorize(Roles = "Admin")]
     public class CreateModel : BookCategoriesPageModel
     {
         private readonly Florea_Cristina_Lab2.Data.Florea_Cristina_Lab2Context _context;
-
+        
         public CreateModel(Florea_Cristina_Lab2.Data.Florea_Cristina_Lab2Context context)
         {
             _context = context;

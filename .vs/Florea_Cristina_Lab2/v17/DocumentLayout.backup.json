@@ -3,20 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C1831853-B0F1-4452-AF4B-6FF12C074800}|Florea_Cristina_Lab2.csproj|c:\\users\\cristina\\desktop\\medii de programare\\florea_cristina_lab2\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1831853-B0F1-4452-AF4B-6FF12C074800}|Florea_Cristina_Lab2.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1831853-B0F1-4452-AF4B-6FF12C074800}|Florea_Cristina_Lab2.csproj|c:\\users\\cristina\\desktop\\medii de programare\\florea_cristina_lab2\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1831853-B0F1-4452-AF4B-6FF12C074800}|Florea_Cristina_Lab2.csproj|solutionrelative:models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1831853-B0F1-4452-AF4B-6FF12C074800}|Florea_Cristina_Lab2.csproj|c:\\users\\cristina\\desktop\\medii de programare\\florea_cristina_lab2\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1831853-B0F1-4452-AF4B-6FF12C074800}|Florea_Cristina_Lab2.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1831853-B0F1-4452-AF4B-6FF12C074800}|Florea_Cristina_Lab2.csproj|c:\\users\\cristina\\desktop\\medii de programare\\florea_cristina_lab2\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1831853-B0F1-4452-AF4B-6FF12C074800}|Florea_Cristina_Lab2.csproj|solutionrelative:models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1831853-B0F1-4452-AF4B-6FF12C074800}|Florea_Cristina_Lab2.csproj|c:\\users\\cristina\\desktop\\medii de programare\\florea_cristina_lab2\\pages\\books\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1831853-B0F1-4452-AF4B-6FF12C074800}|Florea_Cristina_Lab2.csproj|solutionrelative:pages\\books\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1831853-B0F1-4452-AF4B-6FF12C074800}|Florea_Cristina_Lab2.csproj|c:\\users\\cristina\\desktop\\medii de programare\\florea_cristina_lab2\\pages\\books\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1831853-B0F1-4452-AF4B-6FF12C074800}|Florea_Cristina_Lab2.csproj|solutionrelative:pages\\books\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1831853-B0F1-4452-AF4B-6FF12C074800}|Florea_Cristina_Lab2.csproj|c:\\users\\cristina\\desktop\\medii de programare\\florea_cristina_lab2\\pages\\books\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1831853-B0F1-4452-AF4B-6FF12C074800}|Florea_Cristina_Lab2.csproj|solutionrelative:pages\\books\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C1831853-B0F1-4452-AF4B-6FF12C074800}|Florea_Cristina_Lab2.csproj|c:\\users\\cristina\\desktop\\medii de programare\\florea_cristina_lab2\\pages\\borrowings\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1831853-B0F1-4452-AF4B-6FF12C074800}|Florea_Cristina_Lab2.csproj|solutionrelative:pages\\borrowings\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1831853-B0F1-4452-AF4B-6FF12C074800}|Florea_Cristina_Lab2.csproj|c:\\users\\cristina\\desktop\\medii de programare\\florea_cristina_lab2\\pages\\borrowings\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1831853-B0F1-4452-AF4B-6FF12C074800}|Florea_Cristina_Lab2.csproj|solutionrelative:pages\\borrowings\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C1831853-B0F1-4452-AF4B-6FF12C074800}|Florea_Cristina_Lab2.csproj|c:\\users\\cristina\\desktop\\medii de programare\\florea_cristina_lab2\\pages\\members\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1831853-B0F1-4452-AF4B-6FF12C074800}|Florea_Cristina_Lab2.csproj|solutionrelative:pages\\members\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1831853-B0F1-4452-AF4B-6FF12C074800}|Florea_Cristina_Lab2.csproj|c:\\users\\cristina\\desktop\\medii de programare\\florea_cristina_lab2\\pages\\borrowings\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C1831853-B0F1-4452-AF4B-6FF12C074800}|Florea_Cristina_Lab2.csproj|solutionrelative:pages\\borrowings\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C1831853-B0F1-4452-AF4B-6FF12C074800}|Florea_Cristina_Lab2.csproj|c:\\users\\cristina\\desktop\\medii de programare\\florea_cristina_lab2\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1831853-B0F1-4452-AF4B-6FF12C074800}|Florea_Cristina_Lab2.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1831853-B0F1-4452-AF4B-6FF12C074800}|Florea_Cristina_Lab2.csproj|c:\\users\\cristina\\desktop\\medii de programare\\florea_cristina_lab2\\pages\\borrowings\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C1831853-B0F1-4452-AF4B-6FF12C074800}|Florea_Cristina_Lab2.csproj|solutionrelative:pages\\borrowings\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C1831853-B0F1-4452-AF4B-6FF12C074800}|Florea_Cristina_Lab2.csproj|c:\\users\\cristina\\desktop\\medii de programare\\florea_cristina_lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1831853-B0F1-4452-AF4B-6FF12C074800}|Florea_Cristina_Lab2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1831853-B0F1-4452-AF4B-6FF12C074800}|Florea_Cristina_Lab2.csproj|c:\\users\\cristina\\desktop\\medii de programare\\florea_cristina_lab2\\pages\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1831853-B0F1-4452-AF4B-6FF12C074800}|Florea_Cristina_Lab2.csproj|solutionrelative:pages\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C1831853-B0F1-4452-AF4B-6FF12C074800}|Florea_Cristina_Lab2.csproj|c:\\users\\cristina\\desktop\\medii de programare\\florea_cristina_lab2\\pages\\borrowings\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,14 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C1831853-B0F1-4452-AF4B-6FF12C074800}|Florea_Cristina_Lab2.csproj|c:\\users\\cristina\\desktop\\medii de programare\\florea_cristina_lab2\\models\\borrowing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1831853-B0F1-4452-AF4B-6FF12C074800}|Florea_Cristina_Lab2.csproj|solutionrelative:models\\borrowing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1831853-B0F1-4452-AF4B-6FF12C074800}|Florea_Cristina_Lab2.csproj|c:\\users\\cristina\\desktop\\medii de programare\\florea_cristina_lab2\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1831853-B0F1-4452-AF4B-6FF12C074800}|Florea_Cristina_Lab2.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1831853-B0F1-4452-AF4B-6FF12C074800}|Florea_Cristina_Lab2.csproj|c:\\users\\cristina\\desktop\\medii de programare\\florea_cristina_lab2\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C1831853-B0F1-4452-AF4B-6FF12C074800}|Florea_Cristina_Lab2.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C1831853-B0F1-4452-AF4B-6FF12C074800}|Florea_Cristina_Lab2.csproj|c:\\users\\cristina\\desktop\\medii de programare\\florea_cristina_lab2\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -61,10 +85,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C1831853-B0F1-4452-AF4B-6FF12C074800}|Florea_Cristina_Lab2.csproj|c:\\users\\cristina\\desktop\\medii de programare\\florea_cristina_lab2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{C1831853-B0F1-4452-AF4B-6FF12C074800}|Florea_Cristina_Lab2.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1831853-B0F1-4452-AF4B-6FF12C074800}|Florea_Cristina_Lab2.csproj|c:\\users\\cristina\\desktop\\medii de programare\\florea_cristina_lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1831853-B0F1-4452-AF4B-6FF12C074800}|Florea_Cristina_Lab2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C1831853-B0F1-4452-AF4B-6FF12C074800}|Florea_Cristina_Lab2.csproj|c:\\users\\cristina\\desktop\\medii de programare\\florea_cristina_lab2\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
@@ -123,10 +143,6 @@
       "RelativeMoniker": "D:0:0:{C1831853-B0F1-4452-AF4B-6FF12C074800}|Florea_Cristina_Lab2.csproj|solutionrelative:pages\\members\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1831853-B0F1-4452-AF4B-6FF12C074800}|Florea_Cristina_Lab2.csproj|c:\\users\\cristina\\desktop\\medii de programare\\florea_cristina_lab2\\pages\\members\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C1831853-B0F1-4452-AF4B-6FF12C074800}|Florea_Cristina_Lab2.csproj|solutionrelative:pages\\members\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C1831853-B0F1-4452-AF4B-6FF12C074800}|Florea_Cristina_Lab2.csproj|c:\\users\\cristina\\desktop\\medii de programare\\florea_cristina_lab2\\pages\\members\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1831853-B0F1-4452-AF4B-6FF12C074800}|Florea_Cristina_Lab2.csproj|solutionrelative:pages\\members\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -135,24 +151,8 @@
       "RelativeMoniker": "D:0:0:{C1831853-B0F1-4452-AF4B-6FF12C074800}|Florea_Cristina_Lab2.csproj|solutionrelative:pages\\members\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1831853-B0F1-4452-AF4B-6FF12C074800}|Florea_Cristina_Lab2.csproj|c:\\users\\cristina\\desktop\\medii de programare\\florea_cristina_lab2\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1831853-B0F1-4452-AF4B-6FF12C074800}|Florea_Cristina_Lab2.csproj|solutionrelative:models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1831853-B0F1-4452-AF4B-6FF12C074800}|Florea_Cristina_Lab2.csproj|c:\\users\\cristina\\desktop\\medii de programare\\florea_cristina_lab2\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1831853-B0F1-4452-AF4B-6FF12C074800}|Florea_Cristina_Lab2.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1831853-B0F1-4452-AF4B-6FF12C074800}|Florea_Cristina_Lab2.csproj|c:\\users\\cristina\\desktop\\medii de programare\\florea_cristina_lab2\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1831853-B0F1-4452-AF4B-6FF12C074800}|Florea_Cristina_Lab2.csproj|solutionrelative:models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C1831853-B0F1-4452-AF4B-6FF12C074800}|Florea_Cristina_Lab2.csproj|c:\\users\\cristina\\desktop\\medii de programare\\florea_cristina_lab2\\models\\assignedcategorydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1831853-B0F1-4452-AF4B-6FF12C074800}|Florea_Cristina_Lab2.csproj|solutionrelative:models\\assignedcategorydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1831853-B0F1-4452-AF4B-6FF12C074800}|Florea_Cristina_Lab2.csproj|c:\\users\\cristina\\desktop\\medii de programare\\florea_cristina_lab2\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1831853-B0F1-4452-AF4B-6FF12C074800}|Florea_Cristina_Lab2.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C1831853-B0F1-4452-AF4B-6FF12C074800}|Florea_Cristina_Lab2.csproj|c:\\users\\cristina\\desktop\\medii de programare\\florea_cristina_lab2\\pages\\categories\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -177,14 +177,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C1831853-B0F1-4452-AF4B-6FF12C074800}|Florea_Cristina_Lab2.csproj|c:\\users\\cristina\\desktop\\medii de programare\\florea_cristina_lab2\\models\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1831853-B0F1-4452-AF4B-6FF12C074800}|Florea_Cristina_Lab2.csproj|solutionrelative:models\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1831853-B0F1-4452-AF4B-6FF12C074800}|Florea_Cristina_Lab2.csproj|c:\\users\\cristina\\desktop\\medii de programare\\florea_cristina_lab2\\pages\\books\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1831853-B0F1-4452-AF4B-6FF12C074800}|Florea_Cristina_Lab2.csproj|solutionrelative:pages\\books\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1831853-B0F1-4452-AF4B-6FF12C074800}|Florea_Cristina_Lab2.csproj|c:\\users\\cristina\\desktop\\medii de programare\\florea_cristina_lab2\\pages\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C1831853-B0F1-4452-AF4B-6FF12C074800}|Florea_Cristina_Lab2.csproj|solutionrelative:pages\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C1831853-B0F1-4452-AF4B-6FF12C074800}|Florea_Cristina_Lab2.csproj|c:\\users\\cristina\\desktop\\medii de programare\\florea_cristina_lab2\\models\\bookdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -253,10 +245,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C1831853-B0F1-4452-AF4B-6FF12C074800}|Florea_Cristina_Lab2.csproj|c:\\users\\cristina\\desktop\\medii de programare\\florea_cristina_lab2\\pages\\categories\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1831853-B0F1-4452-AF4B-6FF12C074800}|Florea_Cristina_Lab2.csproj|solutionrelative:pages\\categories\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1831853-B0F1-4452-AF4B-6FF12C074800}|Florea_Cristina_Lab2.csproj|c:\\users\\cristina\\desktop\\medii de programare\\florea_cristina_lab2\\pages\\books\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1831853-B0F1-4452-AF4B-6FF12C074800}|Florea_Cristina_Lab2.csproj|solutionrelative:pages\\books\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C1831853-B0F1-4452-AF4B-6FF12C074800}|Florea_Cristina_Lab2.csproj|c:\\users\\cristina\\desktop\\medii de programare\\florea_cristina_lab2\\pages\\authors\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -334,85 +322,85 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Register.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "ToolTip": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAAzAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Pages\\Books\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Books\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Pages\\Books\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\Books\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T04:06:23.201Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Borrowing.cs",
-              "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Models\\Borrowing.cs",
-              "RelativeDocumentMoniker": "Models\\Borrowing.cs",
-              "ToolTip": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Models\\Borrowing.cs",
-              "RelativeToolTip": "Models\\Borrowing.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T19:50:48.817Z",
+              "WhenOpened": "2024-11-14T00:43:57.262Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Pages\\Borrowings\\Details.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Borrowings\\Details.cshtml",
-              "ToolTip": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Pages\\Borrowings\\Details.cshtml",
-              "RelativeToolTip": "Pages\\Borrowings\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-07T01:20:12.867Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Details.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Pages\\Borrowings\\Details.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Borrowings\\Details.cshtml.cs",
-              "ToolTip": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Pages\\Borrowings\\Details.cshtml.cs",
-              "RelativeToolTip": "Pages\\Borrowings\\Details.cshtml.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAwwCIAAAA1AAAAAAAAAA==",
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "Models\\Author.cs",
+              "ToolTip": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Models\\Author.cs",
+              "RelativeToolTip": "Models\\Author.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T01:20:13.019Z",
+              "WhenOpened": "2024-10-24T15:06:08.211Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Pages\\Borrowings\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Borrowings\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Pages\\Borrowings\\Delete.cshtml*",
-              "RelativeToolTip": "Pages\\Borrowings\\Delete.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-07T01:20:13.227Z",
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T06:02:48.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Models\\Member.cs",
+              "RelativeDocumentMoniker": "Models\\Member.cs",
+              "ToolTip": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Models\\Member.cs",
+              "RelativeToolTip": "Models\\Member.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T19:49:43.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T02:02:32.553Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Delete.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Pages\\Borrowings\\Delete.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Borrowings\\Delete.cshtml.cs",
-              "ToolTip": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Pages\\Borrowings\\Delete.cshtml.cs",
-              "RelativeToolTip": "Pages\\Borrowings\\Delete.cshtml.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACIAAAA0AAAAAAAAAA==",
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Models\\Book.cs",
+              "ToolTip": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Models\\Book.cs",
+              "RelativeToolTip": "Models\\Book.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwBcAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T01:20:13.414Z",
+              "WhenOpened": "2024-10-18T09:58:39.554Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "Edit.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Pages\\Borrowings\\Edit.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Borrowings\\Edit.cshtml.cs",
@@ -425,7 +413,98 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Pages\\Borrowings\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Borrowings\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Pages\\Borrowings\\Delete.cshtml.cs",
+              "RelativeToolTip": "Pages\\Borrowings\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T01:20:13.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Pages\\Books\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Books\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Pages\\Books\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\Books\\Create.cshtml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBAAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T00:43:32.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Pages\\Books\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Books\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Pages\\Books\\Delete.cshtml.cs",
+              "RelativeToolTip": "Pages\\Books\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T20:16:53.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAkwIwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T04:06:23.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Pages\\Members\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Members\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Pages\\Members\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\Members\\Edit.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T01:17:50.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Borrowing.cs",
+              "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Models\\Borrowing.cs",
+              "RelativeDocumentMoniker": "Models\\Borrowing.cs",
+              "ToolTip": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Models\\Borrowing.cs",
+              "RelativeToolTip": "Models\\Borrowing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T19:50:48.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Pages\\Books\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Books\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Pages\\Books\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Books\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T05:28:18.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Pages\\Borrowings\\Edit.cshtml",
               "RelativeDocumentMoniker": "Pages\\Borrowings\\Edit.cshtml",
@@ -438,7 +517,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 17,
               "Title": "20241107021113_CreateIdentity.cs",
               "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Migrations\\LibraryIdentity\\20241107021113_CreateIdentity.cs",
               "RelativeDocumentMoniker": "Migrations\\LibraryIdentity\\20241107021113_CreateIdentity.cs",
@@ -446,24 +525,12 @@
               "RelativeToolTip": "Migrations\\LibraryIdentity\\20241107021113_CreateIdentity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T04:01:03.232Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-07T04:45:29.391Z",
+              "WhenOpened": "2024-11-07T04:01:03.232Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
@@ -471,11 +538,12 @@
               "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAACUAAABcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-18T10:03:38.666Z"
+              "WhenOpened": "2024-10-18T10:03:38.666Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Pages\\Members\\Index.cshtml",
               "RelativeDocumentMoniker": "Pages\\Members\\Index.cshtml",
@@ -483,11 +551,12 @@
               "RelativeToolTip": "Pages\\Members\\Index.cshtml",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAADIAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-07T01:17:51.515Z"
+              "WhenOpened": "2024-11-07T01:17:51.515Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 19,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Pages\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Pages\\_ViewStart.cshtml",
@@ -495,11 +564,12 @@
               "RelativeToolTip": "Pages\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-07T04:01:36.279Z"
+              "WhenOpened": "2024-11-07T04:01:36.279Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 18,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Pages\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Pages\\_ViewImports.cshtml",
@@ -507,11 +577,12 @@
               "RelativeToolTip": "Pages\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-07T04:01:36.998Z"
+              "WhenOpened": "2024-11-07T04:01:36.998Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 20,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -519,11 +590,12 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-07T04:00:14.701Z"
+              "WhenOpened": "2024-11-07T04:00:14.701Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "README.md",
               "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\README.md",
               "RelativeDocumentMoniker": "README.md",
@@ -531,11 +603,12 @@
               "RelativeToolTip": "README.md",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-11-07T04:01:29.029Z"
+              "WhenOpened": "2024-11-07T04:01:29.029Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
               "Title": "Florea_Cristina_Lab2.csproj",
               "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Florea_Cristina_Lab2.csproj",
               "RelativeDocumentMoniker": "Florea_Cristina_Lab2.csproj",
@@ -543,23 +616,12 @@
               "RelativeToolTip": "Florea_Cristina_Lab2.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-07T04:01:17.185Z"
+              "WhenOpened": "2024-11-07T04:01:17.185Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T02:02:32.553Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "ScaffoldingReadMe.txt",
               "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\ScaffoldingReadMe.txt",
               "RelativeDocumentMoniker": "ScaffoldingReadMe.txt",
@@ -567,11 +629,12 @@
               "RelativeToolTip": "ScaffoldingReadMe.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-11-07T02:02:21.065Z"
+              "WhenOpened": "2024-11-07T02:02:21.065Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 25,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Pages\\Borrowings\\Create.cshtml",
               "RelativeDocumentMoniker": "Pages\\Borrowings\\Create.cshtml",
@@ -579,11 +642,12 @@
               "RelativeToolTip": "Pages\\Borrowings\\Create.cshtml",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-07T01:20:12.243Z"
+              "WhenOpened": "2024-11-07T01:20:12.243Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 24,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Pages\\Borrowings\\Index.cshtml",
               "RelativeDocumentMoniker": "Pages\\Borrowings\\Index.cshtml",
@@ -591,11 +655,12 @@
               "RelativeToolTip": "Pages\\Borrowings\\Index.cshtml",
               "ViewState": "AgIAABUAAAAAAAAAAAAvwCgAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-07T01:20:13.583Z"
+              "WhenOpened": "2024-11-07T01:20:13.583Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 27,
               "Title": "Create.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Pages\\Borrowings\\Create.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Borrowings\\Create.cshtml.cs",
@@ -603,11 +668,12 @@
               "RelativeToolTip": "Pages\\Borrowings\\Create.cshtml.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T01:20:12.418Z"
+              "WhenOpened": "2024-11-07T01:20:12.418Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 26,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Pages\\Borrowings\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Borrowings\\Index.cshtml.cs",
@@ -615,11 +681,12 @@
               "RelativeToolTip": "Pages\\Borrowings\\Index.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T01:20:13.73Z"
+              "WhenOpened": "2024-11-07T01:20:13.73Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 29,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Pages\\Members\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Members\\Index.cshtml.cs",
@@ -627,11 +694,12 @@
               "RelativeToolTip": "Pages\\Members\\Index.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T01:17:51.692Z"
+              "WhenOpened": "2024-11-07T01:17:51.692Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 30,
               "Title": "Delete.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Pages\\Members\\Delete.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Members\\Delete.cshtml.cs",
@@ -639,11 +707,12 @@
               "RelativeToolTip": "Pages\\Members\\Delete.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T01:17:51.327Z"
+              "WhenOpened": "2024-11-07T01:17:51.327Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 28,
               "Title": "Florea_Cristina_Lab2Context.cs",
               "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Data\\Florea_Cristina_Lab2Context.cs",
               "RelativeDocumentMoniker": "Data\\Florea_Cristina_Lab2Context.cs",
@@ -651,11 +720,12 @@
               "RelativeToolTip": "Data\\Florea_Cristina_Lab2Context.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T10:01:50.687Z"
+              "WhenOpened": "2024-10-18T10:01:50.687Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 31,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Pages\\Members\\Delete.cshtml",
               "RelativeDocumentMoniker": "Pages\\Members\\Delete.cshtml",
@@ -663,11 +733,12 @@
               "RelativeToolTip": "Pages\\Members\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-07T01:17:51.174Z"
+              "WhenOpened": "2024-11-07T01:17:51.174Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 32,
               "Title": "Details.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Pages\\Members\\Details.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Members\\Details.cshtml.cs",
@@ -675,11 +746,12 @@
               "RelativeToolTip": "Pages\\Members\\Details.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T01:17:51.012Z"
+              "WhenOpened": "2024-11-07T01:17:51.012Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 33,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Pages\\Members\\Details.cshtml",
               "RelativeDocumentMoniker": "Pages\\Members\\Details.cshtml",
@@ -687,11 +759,12 @@
               "RelativeToolTip": "Pages\\Members\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-07T01:17:50.857Z"
+              "WhenOpened": "2024-11-07T01:17:50.857Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 34,
               "Title": "Edit.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Pages\\Members\\Edit.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Members\\Edit.cshtml.cs",
@@ -699,23 +772,12 @@
               "RelativeToolTip": "Pages\\Members\\Edit.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T01:17:50.685Z"
+              "WhenOpened": "2024-11-07T01:17:50.685Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Pages\\Members\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Members\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Pages\\Members\\Edit.cshtml",
-              "RelativeToolTip": "Pages\\Members\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-07T01:17:50.554Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 35,
               "Title": "Create.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Pages\\Members\\Create.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Members\\Create.cshtml.cs",
@@ -723,11 +785,12 @@
               "RelativeToolTip": "Pages\\Members\\Create.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T01:17:50.405Z"
+              "WhenOpened": "2024-11-07T01:17:50.405Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 36,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Pages\\Members\\Create.cshtml",
               "RelativeDocumentMoniker": "Pages\\Members\\Create.cshtml",
@@ -735,47 +798,12 @@
               "RelativeToolTip": "Pages\\Members\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-07T01:17:50.209Z"
+              "WhenOpened": "2024-11-07T01:17:50.209Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Models\\Book.cs",
-              "RelativeDocumentMoniker": "Models\\Book.cs",
-              "ToolTip": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Models\\Book.cs",
-              "RelativeToolTip": "Models\\Book.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAA1wBYAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T09:58:39.554Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "Author.cs",
-              "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Models\\Author.cs",
-              "RelativeDocumentMoniker": "Models\\Author.cs",
-              "ToolTip": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Models\\Author.cs",
-              "RelativeToolTip": "Models\\Author.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T15:06:08.211Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "Member.cs",
-              "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Models\\Member.cs",
-              "RelativeDocumentMoniker": "Models\\Member.cs",
-              "ToolTip": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Models\\Member.cs",
-              "RelativeToolTip": "Models\\Member.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAoAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T19:49:43.605Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "AssignedCategoryData.cs",
               "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Models\\AssignedCategoryData.cs",
               "RelativeDocumentMoniker": "Models\\AssignedCategoryData.cs",
@@ -783,11 +811,12 @@
               "RelativeToolTip": "Models\\AssignedCategoryData.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T08:35:05.209Z"
+              "WhenOpened": "2024-10-28T08:35:05.209Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 78,
+              "DocumentIndex": 75,
               "Title": "20241107011429_Borrowings3.cs",
               "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Migrations\\20241107011429_Borrowings3.cs",
               "RelativeDocumentMoniker": "Migrations\\20241107011429_Borrowings3.cs",
@@ -795,11 +824,12 @@
               "RelativeToolTip": "Migrations\\20241107011429_Borrowings3.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T01:14:29.92Z"
+              "WhenOpened": "2024-11-07T01:14:29.92Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 79,
+              "DocumentIndex": 76,
               "Title": "20241103201100_Borrowings.cs",
               "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Migrations\\20241103201100_Borrowings.cs",
               "RelativeDocumentMoniker": "Migrations\\20241103201100_Borrowings.cs",
@@ -807,7 +837,8 @@
               "RelativeToolTip": "Migrations\\20241103201100_Borrowings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T20:11:00.706Z"
+              "WhenOpened": "2024-11-03T20:11:00.706Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -819,19 +850,8 @@
               "RelativeToolTip": "Pages\\Publishers\\Index.cshtml",
               "ViewState": "AgIAACYAAAAAAAAAAAAkwEMAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-28T08:22:14.323Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "Models\\Category.cs",
-              "ToolTip": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Models\\Category.cs",
-              "RelativeToolTip": "Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T06:02:48.16Z"
+              "WhenOpened": "2024-10-28T08:22:14.323Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -843,7 +863,8 @@
               "RelativeToolTip": "Pages\\Publishers\\Index.cshtml.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAIwC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T08:16:21.095Z"
+              "WhenOpened": "2024-10-29T08:16:21.095Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -855,7 +876,8 @@
               "RelativeToolTip": "Pages\\Categories\\Index.cshtml.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAxwBgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T08:17:13.382Z"
+              "WhenOpened": "2024-10-28T08:17:13.382Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -867,7 +889,8 @@
               "RelativeToolTip": "Models\\ViewModels\\CategoriesIndexData.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T07:16:18.315Z"
+              "WhenOpened": "2024-10-30T07:16:18.315Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -879,23 +902,12 @@
               "RelativeToolTip": "Models\\Publisher.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T15:03:46.62Z"
+              "WhenOpened": "2024-10-24T15:03:46.62Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Pages\\Books\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Books\\Index.cshtml.cs",
-              "ToolTip": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Pages\\Books\\Index.cshtml.cs",
-              "RelativeToolTip": "Pages\\Books\\Index.cshtml.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAcwFEAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T08:55:48.58Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 76,
+              "DocumentIndex": 73,
               "Title": "20241102003252_bugfix1.cs",
               "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Migrations\\20241102003252_bugfix1.cs",
               "RelativeDocumentMoniker": "Migrations\\20241102003252_bugfix1.cs",
@@ -903,7 +915,8 @@
               "RelativeToolTip": "Migrations\\20241102003252_bugfix1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T00:32:53.083Z"
+              "WhenOpened": "2024-11-02T00:32:53.083Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -915,23 +928,12 @@
               "RelativeToolTip": "Pages\\Categories\\Index.cshtml",
               "ViewState": "AgIAABsAAAAAAAAAAAAkwDcAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-28T08:17:13.262Z"
+              "WhenOpened": "2024-10-28T08:17:13.262Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 45,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Pages\\Books\\Index.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Books\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Pages\\Books\\Index.cshtml",
-              "RelativeToolTip": "Pages\\Books\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-30T05:28:18.889Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
               "Title": "BookCategory.cs",
               "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Models\\BookCategory.cs",
               "RelativeDocumentMoniker": "Models\\BookCategory.cs",
@@ -939,11 +941,12 @@
               "RelativeToolTip": "Models\\BookCategory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T08:12:09.026Z"
+              "WhenOpened": "2024-10-28T08:12:09.026Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 44,
               "Title": "BookData.cs",
               "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Models\\BookData.cs",
               "RelativeDocumentMoniker": "Models\\BookData.cs",
@@ -951,11 +954,12 @@
               "RelativeToolTip": "Models\\BookData.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T10:03:21.304Z"
+              "WhenOpened": "2024-10-28T10:03:21.304Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 46,
               "Title": "BookCategoriesPageModel.cs",
               "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Models\\BookCategoriesPageModel.cs",
               "RelativeDocumentMoniker": "Models\\BookCategoriesPageModel.cs",
@@ -963,11 +967,12 @@
               "RelativeToolTip": "Models\\BookCategoriesPageModel.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAowA0AAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T08:36:13.778Z"
+              "WhenOpened": "2024-10-28T08:36:13.778Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 77,
+              "DocumentIndex": 74,
               "Title": "20241101230012_categoryidmissing.cs",
               "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Migrations\\20241101230012_categoryidmissing.cs",
               "RelativeDocumentMoniker": "Migrations\\20241101230012_categoryidmissing.cs",
@@ -975,11 +980,12 @@
               "RelativeToolTip": "Migrations\\20241101230012_categoryidmissing.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T23:00:12.599Z"
+              "WhenOpened": "2024-11-01T23:00:12.599Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 75,
+              "DocumentIndex": 72,
               "Title": "20241101223002_cevaceva.cs",
               "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Migrations\\20241101223002_cevaceva.cs",
               "RelativeDocumentMoniker": "Migrations\\20241101223002_cevaceva.cs",
@@ -987,11 +993,12 @@
               "RelativeToolTip": "Migrations\\20241101223002_cevaceva.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T22:30:02.968Z"
+              "WhenOpened": "2024-11-01T22:30:02.968Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 48,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Pages\\Publishers\\Edit.cshtml",
               "RelativeDocumentMoniker": "Pages\\Publishers\\Edit.cshtml",
@@ -999,11 +1006,12 @@
               "RelativeToolTip": "Pages\\Publishers\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-29T08:31:25.532Z"
+              "WhenOpened": "2024-10-29T08:31:25.532Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 47,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Pages\\Categories\\Edit.cshtml",
               "RelativeDocumentMoniker": "Pages\\Categories\\Edit.cshtml",
@@ -1011,11 +1019,12 @@
               "RelativeToolTip": "Pages\\Categories\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-28T08:17:12.452Z"
+              "WhenOpened": "2024-10-28T08:17:12.452Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 50,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Pages\\Categories\\Create.cshtml",
               "RelativeDocumentMoniker": "Pages\\Categories\\Create.cshtml",
@@ -1023,11 +1032,12 @@
               "RelativeToolTip": "Pages\\Categories\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-28T08:17:11.989Z"
+              "WhenOpened": "2024-10-28T08:17:11.989Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 49,
               "Title": "Edit.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Pages\\Categories\\Edit.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Categories\\Edit.cshtml.cs",
@@ -1035,11 +1045,12 @@
               "RelativeToolTip": "Pages\\Categories\\Edit.cshtml.cs",
               "ViewState": "AgIAADIAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T08:17:12.575Z"
+              "WhenOpened": "2024-10-28T08:17:12.575Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 51,
               "Title": "PublisherIndexData.cs",
               "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Models\\ViewModels\\PublisherIndexData.cs",
               "RelativeDocumentMoniker": "Models\\ViewModels\\PublisherIndexData.cs",
@@ -1047,11 +1058,12 @@
               "RelativeToolTip": "Models\\ViewModels\\PublisherIndexData.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T08:14:54.832Z"
+              "WhenOpened": "2024-10-29T08:14:54.832Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 52,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Pages\\Authors\\Index.cshtml",
               "RelativeDocumentMoniker": "Pages\\Authors\\Index.cshtml",
@@ -1059,11 +1071,12 @@
               "RelativeToolTip": "Pages\\Authors\\Index.cshtml",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-27T19:59:19.92Z"
+              "WhenOpened": "2024-10-27T19:59:19.92Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 53,
               "Title": "_Layout.cshtml.css",
               "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Pages\\Shared\\_Layout.cshtml.css",
               "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml.css",
@@ -1071,11 +1084,12 @@
               "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-30T05:31:08.404Z"
+              "WhenOpened": "2024-10-30T05:31:08.404Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 54,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Pages\\Authors\\Create.cshtml",
               "RelativeDocumentMoniker": "Pages\\Authors\\Create.cshtml",
@@ -1083,11 +1097,12 @@
               "RelativeToolTip": "Pages\\Authors\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-27T19:59:18.639Z"
+              "WhenOpened": "2024-10-27T19:59:18.639Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 73,
+              "DocumentIndex": 70,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "Pages\\Index.cshtml",
@@ -1095,11 +1110,12 @@
               "RelativeToolTip": "Pages\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-28T08:20:01.855Z"
+              "WhenOpened": "2024-10-28T08:20:01.855Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 74,
+              "DocumentIndex": 71,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Pages\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Index.cshtml.cs",
@@ -1107,11 +1123,12 @@
               "RelativeToolTip": "Pages\\Index.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T08:22:02.058Z"
+              "WhenOpened": "2024-10-28T08:22:02.058Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 55,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
@@ -1119,11 +1136,12 @@
               "RelativeToolTip": "wwwroot\\css\\site.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-28T08:20:41.386Z"
+              "WhenOpened": "2024-10-28T08:20:41.386Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 56,
               "Title": "Delete.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Pages\\Categories\\Delete.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Categories\\Delete.cshtml.cs",
@@ -1131,11 +1149,12 @@
               "RelativeToolTip": "Pages\\Categories\\Delete.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T08:17:13.114Z"
+              "WhenOpened": "2024-10-28T08:17:13.114Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 57,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Pages\\Categories\\Delete.cshtml",
               "RelativeDocumentMoniker": "Pages\\Categories\\Delete.cshtml",
@@ -1143,11 +1162,12 @@
               "RelativeToolTip": "Pages\\Categories\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-28T08:17:13Z"
+              "WhenOpened": "2024-10-28T08:17:13Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 58,
               "Title": "Details.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Pages\\Categories\\Details.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Categories\\Details.cshtml.cs",
@@ -1155,11 +1175,12 @@
               "RelativeToolTip": "Pages\\Categories\\Details.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T08:17:12.85Z"
+              "WhenOpened": "2024-10-28T08:17:12.85Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 59,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Pages\\Categories\\Details.cshtml",
               "RelativeDocumentMoniker": "Pages\\Categories\\Details.cshtml",
@@ -1167,11 +1188,12 @@
               "RelativeToolTip": "Pages\\Categories\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-28T08:17:12.728Z"
+              "WhenOpened": "2024-10-28T08:17:12.728Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 60,
               "Title": "Create.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Pages\\Categories\\Create.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Categories\\Create.cshtml.cs",
@@ -1179,23 +1201,12 @@
               "RelativeToolTip": "Pages\\Categories\\Create.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T08:17:12.21Z"
+              "WhenOpened": "2024-10-28T08:17:12.21Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
-              "Title": "Delete.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Pages\\Books\\Delete.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Books\\Delete.cshtml.cs",
-              "ToolTip": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Pages\\Books\\Delete.cshtml.cs",
-              "RelativeToolTip": "Pages\\Books\\Delete.cshtml.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T20:16:53.119Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 62,
               "Title": "Delete.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Pages\\Authors\\Delete.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Authors\\Delete.cshtml.cs",
@@ -1203,11 +1214,12 @@
               "RelativeToolTip": "Pages\\Authors\\Delete.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T19:59:19.795Z"
+              "WhenOpened": "2024-10-27T19:59:19.795Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 63,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Pages\\Authors\\Delete.cshtml",
               "RelativeDocumentMoniker": "Pages\\Authors\\Delete.cshtml",
@@ -1215,11 +1227,12 @@
               "RelativeToolTip": "Pages\\Authors\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-27T19:59:19.618Z"
+              "WhenOpened": "2024-10-27T19:59:19.618Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 61,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Pages\\Authors\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Authors\\Index.cshtml.cs",
@@ -1227,11 +1240,12 @@
               "RelativeToolTip": "Pages\\Authors\\Index.cshtml.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T19:59:20.066Z"
+              "WhenOpened": "2024-10-27T19:59:20.066Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 64,
               "Title": "Details.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Pages\\Authors\\Details.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Authors\\Details.cshtml.cs",
@@ -1239,11 +1253,12 @@
               "RelativeToolTip": "Pages\\Authors\\Details.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T19:59:19.481Z"
+              "WhenOpened": "2024-10-27T19:59:19.481Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 65,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Pages\\Authors\\Details.cshtml",
               "RelativeDocumentMoniker": "Pages\\Authors\\Details.cshtml",
@@ -1251,11 +1266,12 @@
               "RelativeToolTip": "Pages\\Authors\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-27T19:59:19.327Z"
+              "WhenOpened": "2024-10-27T19:59:19.327Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 66,
               "Title": "Edit.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Pages\\Authors\\Edit.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Authors\\Edit.cshtml.cs",
@@ -1263,11 +1279,12 @@
               "RelativeToolTip": "Pages\\Authors\\Edit.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T19:59:19.174Z"
+              "WhenOpened": "2024-10-27T19:59:19.174Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 67,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Pages\\Authors\\Edit.cshtml",
               "RelativeDocumentMoniker": "Pages\\Authors\\Edit.cshtml",
@@ -1275,11 +1292,12 @@
               "RelativeToolTip": "Pages\\Authors\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-27T19:59:19.02Z"
+              "WhenOpened": "2024-10-27T19:59:19.02Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 68,
               "Title": "Create.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Pages\\Authors\\Create.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Authors\\Create.cshtml.cs",
@@ -1287,17 +1305,17 @@
               "RelativeToolTip": "Pages\\Authors\\Create.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T19:59:18.831Z"
+              "WhenOpened": "2024-10-27T19:59:18.831Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 69,
               "Title": "20241027192419_AddAuthorToBook.cs",
               "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Migrations\\20241027192419_AddAuthorToBook.cs",
               "RelativeDocumentMoniker": "Migrations\\20241027192419_AddAuthorToBook.cs",
               "ToolTip": "C:\\Users\\Cristina\\Desktop\\Medii de programare\\Florea_Cristina_Lab2\\Migrations\\20241027192419_AddAuthorToBook.cs",
               "RelativeToolTip": "Migrations\\20241027192419_AddAuthorToBook.cs",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAgwDMAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-27T19:24:20.133Z"
             }
