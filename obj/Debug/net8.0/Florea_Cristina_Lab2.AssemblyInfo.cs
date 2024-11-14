@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Florea_Cristina_Lab2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a5449eb60626f02cc49ae4aa9e78a0b6fcdfb048")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c710a03324a59b794a4c97979f7933705fc5fa9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Florea_Cristina_Lab2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Florea_Cristina_Lab2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

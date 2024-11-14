@@ -7,9 +7,11 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.EntityFrameworkCore;
 using Florea_Cristina_Lab2.Data;
 using Florea_Cristina_Lab2.Models;
+using Microsoft.AspNetCore.Authorization;
 
 namespace Florea_Cristina_Lab2.Pages.Publishers
 {
+    [Authorize(Roles = "Admin")]
     public class DeleteModel : PageModel
     {
         private readonly Florea_Cristina_Lab2.Data.Florea_Cristina_Lab2Context _context;

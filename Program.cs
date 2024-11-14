@@ -10,6 +10,12 @@ builder.Services.AddRazorPages(options =>
     options.Conventions.AuthorizeFolder("/Books");
     options.Conventions.AllowAnonymousToPage("/Books/Index");
     options.Conventions.AllowAnonymousToPage("/Books/Details");
+    options.Conventions.AuthorizeFolder("/Publishers");
+    options.Conventions.AllowAnonymousToPage("/Publishers/Index");
+    options.Conventions.AllowAnonymousToPage("/Publishers/Details");
+    options.Conventions.AuthorizeFolder("/Categories");
+    options.Conventions.AllowAnonymousToPage("/Categories/Index");
+    options.Conventions.AllowAnonymousToPage("/Categories/Details");
 });
 ;
 builder.Services.AddDbContext<Florea_Cristina_Lab2Context>(options =>
